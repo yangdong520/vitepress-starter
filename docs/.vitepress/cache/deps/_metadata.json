@@ -1,19 +1,29 @@
 {
-  "hash": "9a67f8ac",
-  "browserHash": "eaafe4fa",
+  "hash": "9414491d",
+  "browserHash": "7ebcbae9",
   "optimized": {
     "vue": {
-      "src": "../../../../node_modules/.pnpm/vue@3.2.47/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "f0f04be3",
+      "fileHash": "1d3cbee8",
       "needsInterop": false
     },
-    "@theme/index": {
-      "src": "../../../../node_modules/.pnpm/vitepress@1.0.0-alpha.46/node_modules/vitepress/dist/client/theme-default/index.js",
-      "file": "@theme_index.js",
-      "fileHash": "77308a7f",
+    "element-plus": {
+      "src": "../../../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "03584f33",
+      "needsInterop": false
+    },
+    "g-element-plus-components/g-e-choose-area/index": {
+      "src": "../../../../node_modules/g-element-plus-components/g-e-choose-area/index.js",
+      "file": "g-element-plus-components_g-e-choose-area_index.js",
+      "fileHash": "dd6fe846",
       "needsInterop": false
     }
   },
-  "chunks": {}
+  "chunks": {
+    "chunk-YJNUPD57": {
+      "file": "chunk-YJNUPD57.js"
+    }
+  }
 }
